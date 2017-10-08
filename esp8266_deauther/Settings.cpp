@@ -93,8 +93,8 @@ void Settings::load() {
 void Settings::reset() {
   if (debug) Serial.print("reset settings...");
 
-  ssid = "pwned";
-  password = "deauther"; //must have at least 8 characters
+  ssid = "hacksour";
+  password = "pwned2017"; //must have at least 8 characters
   ssidHidden = false;
   apChannel = 1;
 
