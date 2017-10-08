@@ -586,7 +586,7 @@ void setup() {
   display.drawString(104, 24, "1.6");
   display.setFont(ArialMT_Plain_10);
   display.drawString(0, 40, "Copyright (c) 2017");
-  display.drawString(0, 50, "Stefan Kremser");
+  display.drawString(0, 50, "Mansour Yaacoubi");
   display.display();
 
   display.setFont(Roboto_Mono_8);
